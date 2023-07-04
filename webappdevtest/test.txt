@@ -1,0 +1,2 @@
+﻿This is a txt file.
+This has change for feature branch B.
